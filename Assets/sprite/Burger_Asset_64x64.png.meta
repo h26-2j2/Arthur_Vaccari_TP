@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: ea2e3d95752f0b94cbdd2ca804113ac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6605741345251657207
+    second: Burger_Asset_64x64_0
+  - first:
+      213: -310920134383557396
+    second: Burger_Asset_64x64_1
+  - first:
+      213: 187883704549086611
+    second: Burger_Asset_64x64_2
+  - first:
+      213: -2938215161234508840
+    second: Burger_Asset_64x64_3
+  - first:
+      213: -1039646052872744791
+    second: Burger_Asset_64x64_4
+  - first:
+      213: 6792489438229121677
+    second: Burger_Asset_64x64_5
+  - first:
+      213: -6985901916741108512
+    second: Burger_Asset_64x64_6
+  - first:
+      213: 777637648517358860
+    second: Burger_Asset_64x64_7
+  - first:
+      213: -1385823890988850659
+    second: Burger_Asset_64x64_8
+  - first:
+      213: 379021939393152693
+    second: Burger_Asset_64x64_9
+  - first:
+      213: 100172176396201478
+    second: Burger_Asset_64x64_10
+  - first:
+      213: -425640642014831910
+    second: Burger_Asset_64x64_11
+  - first:
+      213: 5152579551392823169
+    second: Burger_Asset_64x64_12
+  - first:
+      213: 1631064925138305933
+    second: Burger_Asset_64x64_13
+  - first:
+      213: 2170009835267446829
+    second: Burger_Asset_64x64_14
+  - first:
+      213: 8183049663030728257
+    second: Burger_Asset_64x64_15
+  - first:
+      213: -3851001244711885577
+    second: Burger_Asset_64x64_16
+  - first:
+      213: -4280380540336409545
+    second: Burger_Asset_64x64_17
+  - first:
+      213: -4365302138971319479
+    second: Burger_Asset_64x64_18
+  - first:
+      213: -5984857873124281520
+    second: Burger_Asset_64x64_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90af926ce31b354a0800000000000000
+      internalID: -6605741345251657207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce42d8cf8c36fabf0800000000000000
+      internalID: -310920134383557396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 199
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959bbcdb3f7b9200800000000000000
+      internalID: 187883704549086611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 199
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d333f0d0ec5937d0800000000000000
+      internalID: -2938215161234508840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 194
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a012665c6f6291f0800000000000000
+      internalID: -1039646052872744791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a4d3ae725c34e50800000000000000
+      internalID: 6792489438229121677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 152
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecfce838371d0f90800000000000000
+      internalID: -6985901916741108512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 140
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e8db3259baca00800000000000000
+      internalID: 777637648517358860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d122c58738094cce0800000000000000
+      internalID: -1385823890988850659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 140
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6cb9b127e824500800000000000000
+      internalID: 379021939393152693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 86
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e297e4012e36100800000000000000
+      internalID: 100172176396201478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada9cba5712d71af0800000000000000
+      internalID: -425640642014831910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f5bd6dc3a18740800000000000000
+      internalID: 5152579551392823169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 71
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83c77c58e4b2a610800000000000000
+      internalID: 1631064925138305933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 83
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28583ea27c6d1e10800000000000000
+      internalID: 2170009835267446829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14693581058009170800000000000000
+      internalID: 8183049663030728257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 20
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46c5b75ce7e8ac0800000000000000
+      internalID: -3851001244711885577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734f0c5b3980994c0800000000000000
+      internalID: -4280380540336409545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 11
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9439c5d35d45b63c0800000000000000
+      internalID: -4365302138971319479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_Asset_64x64_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 11
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0533a39397381fca0800000000000000
+      internalID: -5984857873124281520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Burger_Asset_64x64_0: -6605741345251657207
+      Burger_Asset_64x64_1: -310920134383557396
+      Burger_Asset_64x64_10: 100172176396201478
+      Burger_Asset_64x64_11: -425640642014831910
+      Burger_Asset_64x64_12: 5152579551392823169
+      Burger_Asset_64x64_13: 1631064925138305933
+      Burger_Asset_64x64_14: 2170009835267446829
+      Burger_Asset_64x64_15: 8183049663030728257
+      Burger_Asset_64x64_16: -3851001244711885577
+      Burger_Asset_64x64_17: -4280380540336409545
+      Burger_Asset_64x64_18: -4365302138971319479
+      Burger_Asset_64x64_19: -5984857873124281520
+      Burger_Asset_64x64_2: 187883704549086611
+      Burger_Asset_64x64_3: -2938215161234508840
+      Burger_Asset_64x64_4: -1039646052872744791
+      Burger_Asset_64x64_5: 6792489438229121677
+      Burger_Asset_64x64_6: -6985901916741108512
+      Burger_Asset_64x64_7: 777637648517358860
+      Burger_Asset_64x64_8: -1385823890988850659
+      Burger_Asset_64x64_9: 379021939393152693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
